@@ -1,8 +1,7 @@
-names_arr = []
-
 function writeCards(names, event) {
+  let cards_array = []
   for (i = 0; i < names.length; i++) {
-    names_arr << names[i]
+    cards_array << `Thank you, ${names[i]}, for the wonderful ${event} gift!`
   }
-  return names_arr;
+  return cards_array;
 }
