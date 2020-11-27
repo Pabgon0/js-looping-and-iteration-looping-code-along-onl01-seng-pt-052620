@@ -5,3 +5,11 @@ function writeCards(names, event) {
   }
   return cards_array;
 }
+
+function countDown(posInt) {
+  let i = posInt
+  while (i > 0) {
+    console.log(`${i}`)
+    i--
+  }
+}
