@@ -1,1 +1,3 @@
-function writeCards()
+function writeCards() {
+  
+}
