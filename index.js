@@ -11,5 +11,4 @@ function countDown(posInt) {
     console.log(posInt)
     posInt--
   }
-  console.log(posInt)
 }
