@@ -1,3 +1,3 @@
-function writeCards(gifts) {
+function writeCards(names, event) {
   
 }
